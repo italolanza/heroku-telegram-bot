@@ -1,16 +1,2 @@
-json
-aiohttp
-async-timeout
-beautifulsoup4
-certifi
-chardet
-idna
-multidict
 pytelegrambotapi
-requests
-six
 telepot
-urllib3
-wikipedia
-yarl
-time
