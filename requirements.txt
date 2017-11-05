@@ -1,4 +1,4 @@
-json==2.0.9
+json==2.0.9.0
 aiohttp==2.3.1
 async-timeout==2.0.0
 beautifulsoup4==4.6.0
