@@ -45,4 +45,4 @@ def echo_message(message):
 
 
 #faz com que o bot fique procurando por atualizações no servidor do telegram
-bot.polling()          ...
+bot.polling()
